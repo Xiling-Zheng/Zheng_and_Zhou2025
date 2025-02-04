@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/macbookpro/PycharmProjects/pythonProject/reboundc/examples/SJstep0.2q",
+      "program": "/Users/macbookpro/PycharmProjects/pythonProject/reboundc/examples/SJstep0.2q/build/Debug/outDebug"
+    }
+  ]
+}
